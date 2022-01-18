@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`pruebas en gif grid item deve mostrar componente correctamente  1`] = `
+exports[`pruebas en gif grid item debe mostrar componente correctamente  1`] = `
 <div
   className="card animate__animated animate__rubberBand"
 >
