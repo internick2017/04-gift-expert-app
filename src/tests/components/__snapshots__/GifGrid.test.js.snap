@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en el GifGrid debe de mostrar items cuando se cargan imagenes 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeInDown"
+  >
+    Bleach
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="Nick"
+      key="Nick"
+      title="Prueba de locos"
+      url="https://localhos/esto/aquello.com"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`pruebas en el GifGrid debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeInDown"
+  >
+    Bleach
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    loading
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
